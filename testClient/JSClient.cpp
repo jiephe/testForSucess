@@ -2,6 +2,8 @@
 #include <WS2tcpip.h>
 #include <stdio.h>
 
+// for git test
+
 CJSClient::CJSClient(CNotify* pNofity)
 	:m_pNotify(pNofity)
 {
